@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.247c0bcc.chunk.css",
-    "main.js": "/static/js/main.b21ac213.chunk.js",
-    "main.js.map": "/static/js/main.b21ac213.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.2813a03f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.2813a03f.js.map",
+    "main.css": "/static/css/main.8eb85e6a.chunk.css",
+    "main.js": "/static/js/main.663cd332.chunk.js",
+    "main.js.map": "/static/js/main.663cd332.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d3b8ff6d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d3b8ff6d.js.map",
     "static/css/2.7fc9bc2b.chunk.css": "/static/css/2.7fc9bc2b.chunk.css",
-    "static/js/2.728b011d.chunk.js": "/static/js/2.728b011d.chunk.js",
-    "static/js/2.728b011d.chunk.js.map": "/static/js/2.728b011d.chunk.js.map",
-    "static/js/3.11632ee0.chunk.js": "/static/js/3.11632ee0.chunk.js",
-    "static/js/3.11632ee0.chunk.js.map": "/static/js/3.11632ee0.chunk.js.map",
+    "static/js/2.49b36ddc.chunk.js": "/static/js/2.49b36ddc.chunk.js",
+    "static/js/2.49b36ddc.chunk.js.map": "/static/js/2.49b36ddc.chunk.js.map",
+    "static/js/3.c305564e.chunk.js": "/static/js/3.c305564e.chunk.js",
+    "static/js/3.c305564e.chunk.js.map": "/static/js/3.c305564e.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.7fc9bc2b.chunk.css.map": "/static/css/2.7fc9bc2b.chunk.css.map",
-    "static/css/main.247c0bcc.chunk.css.map": "/static/css/main.247c0bcc.chunk.css.map",
-    "static/js/2.728b011d.chunk.js.LICENSE.txt": "/static/js/2.728b011d.chunk.js.LICENSE.txt",
+    "static/css/main.8eb85e6a.chunk.css.map": "/static/css/main.8eb85e6a.chunk.css.map",
+    "static/js/2.49b36ddc.chunk.js.LICENSE.txt": "/static/js/2.49b36ddc.chunk.js.LICENSE.txt",
     "static/media/BNB Logo.92643887.png": "/static/media/BNB Logo.92643887.png",
     "static/media/Cards.18d8697e.svg": "/static/media/Cards.18d8697e.svg",
     "static/media/Logo Full.2e86465d.svg": "/static/media/Logo Full.2e86465d.svg",
@@ -49,10 +49,10 @@
     "static/media/nyanCat.ba8ee599.svg": "/static/media/nyanCat.ba8ee599.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2813a03f.js",
+    "static/js/runtime-main.d3b8ff6d.js",
     "static/css/2.7fc9bc2b.chunk.css",
-    "static/js/2.728b011d.chunk.js",
-    "static/css/main.247c0bcc.chunk.css",
-    "static/js/main.b21ac213.chunk.js"
+    "static/js/2.49b36ddc.chunk.js",
+    "static/css/main.8eb85e6a.chunk.css",
+    "static/js/main.663cd332.chunk.js"
   ]
 }
